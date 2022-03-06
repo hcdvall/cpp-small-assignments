@@ -46,7 +46,6 @@ void containsWord(string A, string B)
             }
         }
     }
- 
     int wordSize = sizeof(wordArray)/sizeof(wordArray[0]);
     if (wordSize == checkCount)
     {
